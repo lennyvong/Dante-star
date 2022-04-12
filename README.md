@@ -1,4 +1,4 @@
-# My_Defender
+# Dante-Star
 
 Dante-star is a labyrinth's generator and solver project made at Epitech technology in C.
 
